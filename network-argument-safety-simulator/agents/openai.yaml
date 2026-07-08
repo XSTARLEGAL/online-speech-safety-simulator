@@ -1,0 +1,4 @@
+interface:
+  display_name: "网络吵架安全模拟器"
+  short_description: "分析网络言论三层法律风险、相似案例并生成合规改写建议"
+  default_prompt: "Use $network-argument-safety-simulator to assess this online statement and provide a safer rewrite."
