@@ -4,7 +4,7 @@
 
 # Online Speech Safety Simulator
 
-## 网上发言安全模拟器
+## 网上锐评对线安全模拟器
 
 面向 founder、自媒体、AI 从业者、独立开发者、早期创业团队和高强度网上冲浪选手的网络发言风险检测 Skill。
 
