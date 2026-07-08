@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="有点智能事务所" src="assets/youdian-logo-white.png" width="120">
+<img alt="有点智能事务所" src="readme-assets/youdian-logo-white.png" width="120">
 
 # Online Speech Safety Simulator
 
@@ -157,7 +157,7 @@ Skill 默认输出以下内容：
 同样是骂人，对方是否先挑衅、是否存在真实纠纷、你有没有证据、你是否公开了隐私、是否号召网友围攻，也都会影响判断结果。
 
 <div align="center">
-<img alt="分析流程图" src="assets/analysis-flowchart.png" width="680">
+<img alt="分析流程图" src="readme-assets/analysis-flowchart.png" width="680">
 </div>
 
 所以这个 Skill 会先做几件事：
@@ -356,10 +356,10 @@ v1.0 内置 266 条结构化案例（覆盖民事名誉权/隐私权/肖像权�
 
 - 个人微信：`xiarenzhimajuan`
 
-<img alt="个人微信二维码" src="assets/wechat-xiarenzhimajuan.jpg" width="244">
+<img alt="个人微信二维码" src="readme-assets/wechat-xiarenzhimajuan.jpg" width="244">
 
 也欢迎关注「有点智能事务所」。我会在这里持续更新新的 Skill 发布、AI 合规实践、网络发言风险、内容治理和数据合规相关内容。
 
-<img alt="有点智能事务所二维码" src="assets/youdian-zhineng-shiwusuo-qrcode.jpg" width="261">
+<img alt="有点智能事务所二维码" src="readme-assets/youdian-zhineng-shiwusuo-qrcode.jpg" width="261">
 
-<img alt="有点智能事务所" src="assets/youdian-zhineng-shiwusuo.jpg" width="180">
+<img alt="有点智能事务所" src="readme-assets/youdian-zhineng-shiwusuo.jpg" width="180">
