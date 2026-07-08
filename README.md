@@ -1,10 +1,10 @@
 <div align="center">
 
-<img alt="有点智能事务所" src="assets/youdian-logo-white.png" width="120">
+<img alt="有点智能事务所" src="readme-assets/youdian-logo-white.png" width="120">
 
 # Online Speech Safety Simulator
 
-## 网上锐评对线安全模拟器
+## 网上冲浪安全模拟器
 
 面向 founder、自媒体、AI 从业者、独立开发者、早期创业团队和高强度网上冲浪选手的网络发言风险检测 Skill。
 
@@ -157,7 +157,7 @@ Skill 默认输出以下内容：
 同样是骂人，对方是否先挑衅、是否存在真实纠纷、你有没有证据、你是否公开了隐私、是否号召网友围攻，也都会影响判断结果。
 
 <div align="center">
-<img alt="分析流程图" src="assets/analysis-flowchart.png" width="680">
+<img alt="分析流程图" src="readme-assets/analysis-flowchart.png" width="680">
 </div>
 
 所以这个 Skill 会先做几件事：
@@ -173,7 +173,9 @@ Skill 默认输出以下内容：
 
 简单说，它不是替你闭嘴。
 
-它是帮你把翻译成"我基于以下事实，对该行为表示明确不认可，并保留进一步维权的权利"。
+它是帮你把"我想骂死他"翻译成"我基于以下事实，对该行为表示明确不认可，并保留进一步维权的权利"。
+
+虽然少了一点互联网原始野性，但也少了一点被告席上的沉默震耳欲聋。
 
 ## 适用场景
 
@@ -294,6 +296,8 @@ v1.0 内置 266 条结构化案例（覆盖民事名誉权/隐私权/肖像权�
 
 如果没有配置实时案例检索工具，Skill 会使用内置案例库和参考规则进行分析，并提示后续可进行正式案例核验。
 
+它不会把内置案例伪装成实时检索结果。毕竟互联网已经够会编了，工具就别跟着学坏了。
+
 ## 当前版本不做什么
 
 当前版本不会：
@@ -352,8 +356,10 @@ v1.0 内置 266 条结构化案例（覆盖民事名誉权/隐私权/肖像权�
 
 - 个人微信：`xiarenzhimajuan`
 
-<img alt="个人微信二维码" src="assets/wechat-xiarenzhimajuan.jpg" width="244">
+<img alt="个人微信二维码" src="readme-assets/wechat-xiarenzhimajuan.jpg" width="244">
 
-也欢迎关注「有点智能事务所」。我会在这里持续更新新的 Skill ，关于AI 合规实践、内容治理和数据合规实践相关内容。
+也欢迎关注「有点智能事务所」。我会在这里持续更新新的 Skill 发布、AI 合规实践、网络发言风险、内容治理和数据合规相关内容。
 
-<img alt="有点智能事务所二维码" src="assets/youdian-zhineng-shiwusuo-qrcode.jpg" width="261">
+<img alt="有点智能事务所二维码" src="readme-assets/youdian-zhineng-shiwusuo-qrcode.jpg" width="261">
+
+<img alt="有点智能事务所" src="readme-assets/youdian-zhineng-shiwusuo.jpg" width="180">
